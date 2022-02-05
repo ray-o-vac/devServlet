@@ -1,4 +1,4 @@
-# devServlet, Tomcat 10.0, jakarta servlet
+# Tomcat 10.0.16, jakarta servlet
 
 ## Ecran d'acceuil
 ![image](https://user-images.githubusercontent.com/99075387/152639326-2a7f0854-4c4a-4f8e-a76e-f6f7e5612bd0.png)
